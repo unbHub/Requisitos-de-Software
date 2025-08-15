@@ -33,7 +33,7 @@ Durante a reunião, com os integrantes e compartilharem em suas perspectivas e c
 |RF16|Deve suportar integração com serviços de carona paga para fornecer opções de transporte.|
 |RF17|Deve integrar com serviços de bicicletas e patinetes compartilhados para exibir locais disponíveis.|
 |RNF01|O sistema deve ser responsivo, adaptando-se a diferentes tamanhos de tela (dispositivos móveis e tablets).|
-|RNF02|O sistema deve ser compatível com as principais versões dos sistemas operacionais Android e iOS.|
+|RNF02|O sistema deve ser compatível com as principais versões dos sistemas operacionais Android e iOS, bem como ser acessível em navegadores modernos para plataformas web.|
 | RNF03|  A interface do usuário deve ser intuitiva e fácil de usar, seguindo as diretrizes de design de UX/UI.|
 | RNF04|  O sistema deve seguir as condição de LGPD para a compra de assinaturas.|
 | RNF05|  O sistema deve ser escalável sendo possível utlizar em qualquer região.|
